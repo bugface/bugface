@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugface&layout=compact&hide=html" alt="bugface" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugface&show_icons=true" alt="bugface" /></p>
+
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=bugface&theme=xcode" /></div>
