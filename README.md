@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: there is no way
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugface&layout=compact&hide=html" alt="bugface" /></p>
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugface)]</p>
+
+<p><img src="http://ionicabizau.github.io/github-profile-languages/?user=bugface"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugface&show_icons=true" alt="bugface" /></p>
 
